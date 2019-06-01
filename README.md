@@ -1,4 +1,4 @@
-# App-multimedia
+# App-multimèdia
 Aplicació creada en Android, per visualitzar i editar fotos i vídeos
 
 <img src="CapturaRetallarImatge.jpg" alt="captura de pantalla 1" width="180" height="370"> <img src="CapturaRetallarVídeo.jpg" alt="captura de pantalla 2" width="180" height="370">
